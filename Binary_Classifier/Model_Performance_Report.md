@@ -38,4 +38,6 @@ Their NAME appears more than 5 times.
 The type of APPLICATION is a T3, T4, T5, T6 or T19
 The application is classified by one of the following CLASSIFICATION values : C1000, C1200, C2000, C2100 or C3000.
 
-An alternative model to recommend is the Random Forest model as it is suited for classification problems. As can be seen, using the Random Forest model we can achieve close to 78% accuracy.
+An alternative model to recommend is the Random Forest model as it is suited for classification problems. The Random Forest is a robust, flexible, and interpretable model for classification tasks. It works by constructing multiple decision trees and averaging their predictions.
+Random Forest tends to perform well with structured data, handling categorical variables without requiring too much preprocessing.
+By taking the average of multiple decision trees, it reduces overfitting, especially with imbalanced datasets.

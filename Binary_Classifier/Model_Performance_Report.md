@@ -9,7 +9,7 @@
 The target variable was the `IS_SUCCESSFUL` feature.
 
  What variable(s) are the features for your model?
-The following feature were chosen for the model:
+The following features were chosen for the model:
 `NAME`, `APPLICATION_TYPE`, `AFFILIATION`, `CLASSIFICATION`, `USE_CASE`, `ORGANIZATION`, `STATUS`, `INCOME_AMT`, `SPECIAL_CONSIDERATIONS`
 
 What variable(s) should be removed from the input data because they are neither targets nor features?
